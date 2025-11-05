@@ -14,6 +14,10 @@ const nextConfig: NextConfig = {
         hostname: 'api-bigboy.duthanhduoc.com',
         pathname: '/**'
       },
+        {
+        hostname: 'https://backend-ar5x.onrender.com',
+        pathname: '/**'
+      },
       {
         hostname: 'via.placeholder.com',
         pathname: '/**'

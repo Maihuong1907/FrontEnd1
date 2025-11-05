@@ -4,10 +4,10 @@ export const baseOpenGraph = {
   locale: 'en_US',
   alternateLocale: ['vi_VN'],
   type: 'website',
-  siteName: 'Bigboy Restaurant',
+  siteName: 'Lau Thai Restaurant',
   images: [
     {
-      url: `${envConfig.NEXT_PUBLIC_URL}/banner.png`
+      url: `${envConfig.NEXT_PUBLIC_URL}/banner2.jpg`
     }
   ]
 }

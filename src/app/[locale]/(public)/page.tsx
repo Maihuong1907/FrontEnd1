@@ -51,7 +51,7 @@ export default async function Home(props: {
       <section className='relative z-10'>
         <span className='absolute top-0 left-0 w-full h-full bg-black opacity-50 z-10'></span>
         <Image
-          src='/banner.png'
+          src='/banner2.jpg'
           width={400}
           height={200}
           quality={80}
